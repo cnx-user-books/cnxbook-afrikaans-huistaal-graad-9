@@ -1,3 +1,47 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11058</md:content-id>  <md:title>Afrikaans Huistaal Graad 9</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>af</md:language>              <md:uuid>77b37a6c-c934-4b23-a190-87b50d635a0a</md:uuid>
-<md:slug>afrikaans-huistaal-graad-9</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>Kwartaal 1</md:title>                                <col:content>                    <col:module document="m24080"/>                            <col:module document="m24075"/>                            <col:module document="m24076"/>                            <col:module document="m24077"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Kwartaal 2</md:title>                                <col:content>                    <col:module document="m24008"/>                            <col:module document="m24010"/>                            <col:module document="m24023"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Kwartaal 3</md:title>                                <col:content>                    <col:module document="m24022"/>                            <col:module document="m24032"/>                            <col:module document="m24026"/>                            <col:module document="m24044"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Kwartaal 4</md:title>                                <col:content>                    <col:module document="m24085"/>                            <col:module document="m24055"/>                            <col:module document="m24057"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Siyavula Uploaders">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11058</md:content-id>
+    <md:title>Afrikaans Huistaal Graad 9</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>af</md:language>
+    <md:uuid>77b37a6c-c934-4b23-a190-87b50d635a0a</md:uuid>
+    <md:slug>afrikaans-huistaal-graad-9</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Kwartaal 1</md:title>
+      <col:content>
+        <col:module document="m24080"/>
+        <col:module document="m24075"/>
+        <col:module document="m24076"/>
+        <col:module document="m24077"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Kwartaal 2</md:title>
+      <col:content>
+        <col:module document="m24008"/>
+        <col:module document="m24010"/>
+        <col:module document="m24023"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Kwartaal 3</md:title>
+      <col:content>
+        <col:module document="m24022"/>
+        <col:module document="m24032"/>
+        <col:module document="m24026"/>
+        <col:module document="m24044"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Kwartaal 4</md:title>
+      <col:content>
+        <col:module document="m24085"/>
+        <col:module document="m24055"/>
+        <col:module document="m24057"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
